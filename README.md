@@ -5,7 +5,8 @@
 <p>Guest (not logged in) users are able to login, register and view the Home page.<br>
 Logged in users can logout, view all teams, view all projects, view their profile and leave a team.<br>
 The Admin (seeded at the start of the application) can logout, distribute teams, distribute projects, create teams, create projects and  view their profile.</p>
-<p>The app offeres the following views:<br> 
+<p>The app offeres the following views:<br>
+
 * Guest pages - Index page, Login page, Register page.
 * User pages - Projects page, Teams page, Profile page with My teams and My projects.
 * Admin pages - Create team page, Create project page, Admin Projects page for distributing projects to the teams, Admin Teams page for distributing users to the existing teams.<br>
