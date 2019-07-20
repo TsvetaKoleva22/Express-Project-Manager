@@ -9,7 +9,7 @@ The project uses Express as a back-end framework, MongoDB as a database with Mon
 
 **The Admin** (seeded at the start of the application) can logout, distribute teams, distribute projects, create teams, create projects and  view their profile.
 
-The app offeres the following *views*:
+The app offers the following *views*:
 
 * Guest pages - **Index page**, **Login page**, **Register page**.
 * User pages - **Projects page** (shows all projects with their teams and description), **Teams page** (shows all teams with their members and projects), **Profile page** (with picture, My teams and My projects).
